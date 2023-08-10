@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/TowerDefense/Scenes/Menu.unity
+    guid: 8baf6f82cca194ffa8c0ec71f43a6380
+  - enabled: 1
+    path: Assets/Noi dung cu/Scenes/SampleScene.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/TowerDefense/Scenes/Map 1.unity
+    guid: d88f2063ee2004037940a895dae31c9c
+  - enabled: 1
+    path: Assets/TowerDefense/Scenes/Map 2.unity
+    guid: 57224717dfe2b446481d8e38ae904ada
+  m_configObjects: {}
